@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fEVZN0YI)
 # Lab 01: Personal Portfolio
 
 **Student Name:** [Your Name Here]  
@@ -27,5 +28,10 @@ After completing this lab, write a few sentences about:
 [Write your reflection here]
 
 ---
+The most challenging part was the styling, one wrong move could break the layout. making an img too big or your styling inconsistent could lead to a lot of frustration. 
+
+The importance of using appropriate tags to convey meaning and structure.i spend some time fiddling around. 
+
+In the future, I plan to expand this portfolio by adding some projects i've completed and improving the designs.</p>
 
 *This portfolio will grow throughout the semester as you add React components and full-stack projects!*
